@@ -5,7 +5,8 @@
     --primary: #0d6efd;
     --dark: #21252f;
     --body: #888;
-    --white: #ffffff;
+    --white: #ee1313 !important;
+    font-weight: lighter;
     --box-shadow: 0 8px 22px rgba(0, 0, 0, 0.1);
 }
 
