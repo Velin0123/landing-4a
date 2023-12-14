@@ -2,7 +2,8 @@
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css");
 
 :root {
-    --primary: #0d6efd;
+    --primary: #27d84e !important;
+    font-weight: bold;
     --dark: #21252f;
     --body: #888;
     --white: #ffffff;
