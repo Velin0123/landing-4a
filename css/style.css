@@ -47,7 +47,7 @@ section {
 }
 
 .btn-outline-light:hover {
-    color: #000000;
+    color: #071f25;
 }
 
 .home::after {
@@ -57,7 +57,7 @@ section {
     position: absolute;
     top: 0;
     left: 0;
-    background-color: rgba(21, 20, 51, 0.8);
+    background-color: rgba(247, 27, 126, 0.8);
     z-index: -1;
 }
 
